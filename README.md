@@ -1,4 +1,3 @@
 # Coding-Practice-JL
-# Hello World
-## Hi
-Hello
+
+Contains: USACO Practice & Algorithm Practice
